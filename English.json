@@ -6,7 +6,7 @@
       "reload_time": "Reload Time:",
       "no_permission": "You do not have permission to use this command"
     },
-    "BotStats": {
+    "PsutilStats": {
       "title": "Machine resources information",
       "processor": "Processor",
       "memory": "Memory",
