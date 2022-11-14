@@ -31,9 +31,12 @@
       "total": "Total",
       "free": "Free",
       "percent": "Percent",
-      "uptime": "Uptime"
+      "uptime": "Uptime",
+      "seconds": "Seconds",
+      "minutes": "Minutes",
+      "hours": "Hours",
+      "days": "Days",
+      "months": "Months",
+      "years": "Years"
     },
-    "AutoRole": {
-      "title": "Auto Role Assignment"
-    }
-  }
+}
