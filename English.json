@@ -3,8 +3,7 @@
       "reloading": "Reloading bot",
       "reload_complete": "Reload Complete",
       "reload_error": "Error Output",
-      "reload_time": "Reload Time:",
-      "no_permission": "You do not have permission to use this command"
+      "reload_time": "Reload Time:"
     },
     "ModuleManager": {
       "title": "Module Manager",
