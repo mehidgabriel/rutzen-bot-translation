@@ -10,7 +10,7 @@
       "title": "Machine resources information",
       "processor": "Processor",
       "memory": "Memory",
-      "swap": "Swap",
+      "disk": "Disk",
       "network": "Network",
       "corecount": "Core Count",
       "usage": "Usage",
