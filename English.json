@@ -5,6 +5,7 @@
       "reload_error": "Error Output",
       "reload_time": "Reload Time:"
     },
+    
     "ModuleManager": {
       "title": "Module Manager",
       "checking": "Checking for module `{module}`",
@@ -17,20 +18,24 @@
       "list_description": "There is **{amount} Modules** has been founded on repository\n You can install with **{prefix}module install <module>**",
       "installing_depencies": "Installing depencies \n\n{depencies}"
     },
+    
     "PsutilStats": {
       "title": "Machine resources information",
       "processor": "Processor",
       "memory": "Memory",
-      "swap": "Swap",
-      "network": "Network",
+      "network": "Network Traffic",
       "corecount": "Core Count",
       "usage": "Usage",
       "sent": "Sent",
       "received": "Received",
       "total": "Total",
       "free": "Free",
-      "percent": "Percent"
+      "percent": "Percent",
+      "disk": "Disk"
+      "uptime": "Uptime',
+      "ping": "Ping"
     },
+    
     "AutoRole": {
       "title": "Auto Role Assignment"
     }
