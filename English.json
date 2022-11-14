@@ -3,9 +3,9 @@
       "reloading": "Reloading bot",
       "reload_complete": "Reload Complete",
       "reload_error": "Error Output",
-      "reload_time": "Reload Time:"
+      "reload_time": "Reload Time:",
+      "no_permission": "You do not have permission to use this command"
     },
-    
     "ModuleManager": {
       "title": "Module Manager",
       "checking": "Checking for module `{module}`",
@@ -18,12 +18,12 @@
       "list_description": "There is **{amount} Modules** has been founded on repository\n You can install with **{prefix}module install <module>**",
       "installing_depencies": "Installing depencies \n\n{depencies}"
     },
-    
     "PsutilStats": {
       "title": "Machine resources information",
       "processor": "Processor",
       "memory": "Memory",
-      "network": "Network Traffic",
+      "swap": "Swap",
+      "network": "Network",
       "corecount": "Core Count",
       "usage": "Usage",
       "sent": "Sent",
@@ -31,11 +31,8 @@
       "total": "Total",
       "free": "Free",
       "percent": "Percent",
-      "disk": "Disk",
-      "uptime": "Uptime",
-      "ping": "Ping"
+      "uptime": "Uptime"
     },
-    
     "AutoRole": {
       "title": "Auto Role Assignment"
     }
