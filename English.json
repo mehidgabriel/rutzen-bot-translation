@@ -4,14 +4,14 @@
       "reload_complete": "Reload Complete",
       "reload_error": "Error Output",
       "reload_time": "Reload Time:",
-      "restarting": "Restarting",
-      "no_permission": "You do not have permission to use this command"
+      "no_permission": "You do not have permission to use this command",
+      "restart": "Restarting bot",
     },
     "BotStats": {
       "title": "Machine resources information",
       "processor": "Processor",
       "memory": "Memory",
-      "disk": "Disk",
+      "swap": "Swap",
       "network": "Network",
       "corecount": "Core Count",
       "usage": "Usage",
@@ -19,13 +19,6 @@
       "received": "Received",
       "total": "Total",
       "free": "Free",
-      "percent": "Percent",
-      "uptime": "Uptime",
-      "seconds": "Seconds",
-      "minutes": "Minutes",
-      "hours": "Hours",
-      "days": "Days",
-      "months": "Months",
-      "years": "Years"
+      "percent": "Percent"
     }
   }
