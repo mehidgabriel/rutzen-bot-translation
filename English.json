@@ -5,7 +5,7 @@
       "reload_error": "Error Output",
       "reload_time": "Reload Time:",
       "no_permission": "You do not have permission to use this command",
-      "restart": "Restarting bot",
+      "restart": "Restarting bot"
     },
     "BotStats": {
       "title": "Machine resources information",
