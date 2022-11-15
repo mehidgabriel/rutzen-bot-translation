@@ -19,6 +19,7 @@
       "received": "Received",
       "total": "Total",
       "free": "Free",
-      "percent": "Percent"
+      "percent": "Percent",
+      "ping": "Ping"
     }
   }
