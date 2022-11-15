@@ -4,6 +4,7 @@
       "reload_complete": "Reload Complete",
       "reload_error": "Error Output",
       "reload_time": "Reload Time:",
+      "restarting": "Restarting",
       "no_permission": "You do not have permission to use this command"
     },
     "BotStats": {
@@ -25,7 +26,6 @@
       "hours": "Hours",
       "days": "Days",
       "months": "Months",
-      "years": "Years",
-      "restarting": "Restarting"
+      "years": "Years"
     }
   }
